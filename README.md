@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Asmamaw from Ethiopia<br><br>- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning React and Node.js<br>- ⚡ In my free time I contribute to open source projects</p>
+<p align="left">I'm Asmamaw from Ethiopia<br><br>- 🔭 I’m working as a Software Engineer<br>- 📚 I'm currently learning React, django and next.js<br>- ⚡ In my free time I contribute to open source projects</p>
 
 ###
 
